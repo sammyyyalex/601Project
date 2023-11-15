@@ -1,13 +1,22 @@
+
 body{
-    margin:1rem;
+    font-family: 'Volkhov', serif;
+    margin:1.5rem;
     padding: 1.5rem;
 }
 
-#jumbo{
-   /*add image here*/
+#brand{
+    text-align:center;
+    background-color: #d4e8e1;
 }
 
-.card-group{
-    margin: 1rem;
+h1, h2, h3 {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue',
+    Ubuntu, Arial, sans-serif;
+}
+
+#jumbo{
+    background-color: #fafdfc;
 }
 
