@@ -8,6 +8,9 @@ body{
 
 #brand{
     text-align:center;
+    background-color: white;
+    color:black;
+    border-radius: 1rem;
 }
 
 h1, h2, h3 {
@@ -19,5 +22,6 @@ h1, h2, h3 {
 #jumbo{
     background-color: #fafdfc;
     color:black;
+    border-radius: 1rem;
 }
 
